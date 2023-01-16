@@ -53,7 +53,8 @@
     "last_opened_file_path": "C:/Users/Nikita/Desktop/java/java_pft/sandbox/build.gradle",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -61,7 +62,7 @@
       <recent name="ru.stqa.pft.sandbox" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyFirstProgram1">
+  <component name="RunManager" selected="Application.MyFirstProgram">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="java_pft_main" />
@@ -98,7 +99,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MyFirstProgram1" />
       </list>
     </recent_temporary>
   </component>
